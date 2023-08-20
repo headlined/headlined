@@ -31,6 +31,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Suno0526/Suno0526/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Suno0526/Suno0526/output/dist/snake.svg" alt="Snake animation" />
 
 ###
