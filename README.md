@@ -4,22 +4,12 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="center">Just a programmer and designer that typically specializes in Roblox development.</h3>
-
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suno0526&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=Languages" height="145" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Suno0526&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="145" alt="streak graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<h3 align="center">Here's some languages I know so far, and am efficient with.</h3>
 
 ###
 
