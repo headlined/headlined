@@ -14,22 +14,12 @@
 <img src="https://komarev.com/ghpvc/?username=Suno0526&style=flat-square&color=blue" alt=""/>
 
 # Languages
-| Languages | Knowledge | Started |
-| --------- | --------- | ------- |
-| **C#** | **8%** | **2023** |
-| **Lua** | **89%** | **2019** |
-| **Python** | **64%** | **2018** |
-| **JS** | **52%** | **2022** |
-| **TS** | **57%** | **2023** |
-
-| Offbrand Languages | Knowledge | Started |
-| ------------------ | --------- | ------- |
-| **HTML** | **85%** | **2019** |
-| **CSS** | **60%** | **2021** |
-
-| Frameworks | Knowledge | Started |
-| ---------- | --------- | ------- |
-| **React** | **90%** | **2022** |
-| **Tailwind CSS** | **30%** | **2023** |
-| **Roact** | **23%** | **2023** |
-| **Roblox-TS** | **15%** | **2023** |
+| Languages      | Knowledge | Started |
+| -------------- | --------- | ------- |
+| C#             | 8%        | 2023    |
+| Lua            | 89%       | 2019    |
+| Python         | 64%       | 2018    |
+| JS             | 52%       | 2022    |
+| TS             | 57%       | 2023    |
+| HTML           | 85%       | 2019    |
+| CSS            | 60%       | 2021    |
