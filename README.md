@@ -12,14 +12,3 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Suno0526&style=flat-square&color=blue" alt=""/>
-
-# Languages
-| Languages      | Knowledge | Started |
-| -------------- | --------- | ------- |
-| C#             | 8%        | 2023    |
-| Lua            | 89%       | 2019    |
-| Python         | 64%       | 2018    |
-| JS             | 52%       | 2022    |
-| TS             | 57%       | 2023    |
-| HTML           | 85%       | 2019    |
-| CSS            | 60%       | 2021    |
