@@ -4,6 +4,5 @@ I'm Suno, a 15 year old programmer that dedicates his life to countless hours of
 * **Donations are accepted!** _I take donations as a way to provide free-to-use & open-sourced content for everyone to use!_
 
 ### Links
-- https://example.com
 - https://youtube.com/@kidsuno
 - https://cash.app/$kidsuno
