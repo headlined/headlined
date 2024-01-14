@@ -6,6 +6,3 @@ I'm Suno, a 15 year old programmer that dedicates his life to countless hours of
 ### Links
 - https://youtube.com/@kidsuno
 - https://cash.app/$kidsuno
-‎ 
-#
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=headlined&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,dockerfile&theme=algolia&show_icons=true)](https://github.com/headlined)
