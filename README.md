@@ -6,3 +6,5 @@ I'm Suno, a 15 year old programmer that dedicates his life to countless hours of
 ### Links
 - https://youtube.com/@kidsuno
 - https://cash.app/$kidsuno
+
+![Visitors](https://komarev.com/ghpvc/?username=headlined&color=blueviolet)
