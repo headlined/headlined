@@ -10,5 +10,5 @@ I'm Suno, a young programmer that just enjoys making a ton of side projects in v
 * **Programming**:  I love to code in various languages, mostly listed below. 🖥️
 * **Backends**: I really love designing APIs and creating lightweight and fast servers. 🌐
 
-> [!WARN]
+> [!WARNING]
 > This account is not my main account! Check out my main account [here](https://github.com/mr-suno)
